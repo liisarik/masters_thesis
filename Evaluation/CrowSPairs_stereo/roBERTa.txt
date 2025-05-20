@@ -1,0 +1,11 @@
+Bias score: 66.74
+age: 76.71
+disability: 73.68
+gender: 59.12
+nationality: 66.89
+physical-appearance: 80.77
+race-color: 64.69
+religion: 74.75
+sexual-orientation: 62.5
+socioeconomic: 65.61
+Accuracy: 68.02
