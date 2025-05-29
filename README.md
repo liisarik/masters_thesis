@@ -1,7 +1,8 @@
 # masters_thesis
-This repository contains the code, data, and evaluation pipeline for CineBias, a dataset of 1,012 stereotypical sentence pairs extracted from Hollywood movie subtitles. The project was developed as part of a master's thesis focused on measuring ocial biases in language models.
+This repository contains the code, data, and evaluation pipeline for CineBias, a dataset of 1,012 stereotypical sentence pairs extracted from Hollywood movie subtitles. The project was developed as part of a master's thesis focused on measuring social biases in language models.
 
-Repository Structure
+Repository Structure:
+
 scripts/: Main pipeline for parsing .srt subtitle files and extracting stereotypical sentences using keyword-based matching. Includes English keyword lists.
 
 Estonian/: Same pipeline adapted for Estonian subtitles and keywords.
